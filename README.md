@@ -2,7 +2,7 @@
 WilmixInfiniteTechnolgy  is     focused  only  on  Dot net  technology  on  windows  platform.
 
 
-This    Organization    perform    tasks  
+This    Organization    perform    tasks  which  is  given below.
 
 a)  Advanced  Business  with  Dotnet  platform
 
