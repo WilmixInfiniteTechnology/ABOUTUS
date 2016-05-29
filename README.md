@@ -1,5 +1,5 @@
 # ABOUTUS
-WilmixInfiniteTechnolgy  is     focused  only  on  Dot net  technology  on  windows  platform.
+WilmixInfiniteTechnology  is     focused  only  on  Dot net  technology  on  windows  platform.
 
 
 This    Organization    perform    tasks  which  is  given below.
